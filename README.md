@@ -19,4 +19,7 @@ Criterios de ineficiencia
 - Promedio bajo de número de llamadas.
 - Baja cantidad de llamadas salientes en operadores cuya función incluye realizarlas.
 
+Análisis y resultados
+
+
 sambiolexp.github.io
