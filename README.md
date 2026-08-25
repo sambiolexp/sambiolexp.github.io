@@ -20,6 +20,14 @@ Criterios de ineficiencia
 - Baja cantidad de llamadas salientes en operadores cuya función incluye realizarlas.
 
 Análisis y resultados
+- Se identificaron a 95 operadores con alta tasa de llamadas perdidas y con baja duración promedio de llamadas.
+- Los operadores ineficientes pierden 47 de 100 llamadas.
+- Los operadores con menor duración de llamadas son los que realmente podrían estar cortando llamadas prematuramente.
+
+Conclusiones y recomendaciones
+- Los operadores considerados ineficientes  representan el 8.7% del total de operadores.
+- Poner a prueba a los empleados por un tiempo y ver si sus estadísticas mejoran.
+- Se podrían revisar otros datos, por ejemplo, la antigüedad de estos operadores dentro de la empresa.
 
 
-sambiolexp.github.io
+
