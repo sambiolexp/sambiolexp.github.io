@@ -31,3 +31,30 @@ Conclusiones y recomendaciones
 
 
 
+# Caso de estudio SQL: Análisis del Comportamiento de Lectores Durante la Pandemia
+Durante la pandemia por COVID-19, el cambio en los hábitos sociales impulsó el crecimiento del consumo de libros y el desarrollo de nuevas plataformas para lectores. En este proyecto, trabajé con una base de datos relacional de una startup del sector editorial que busca lanzar un nuevo producto digital para lectores y lectoras. 
+
+Objetivos del proyecto
+- Explorar base de datos para entender el comportamiento de lectura y calificación.
+- Ejecutar consultas SQL para extraer métricas clave sobre:
+  Publicaciones recientes
+  Participación de usuarios
+  Rendimiento de autores y editoriales
+- Generar insights que fundamenten decisiones de producto y estrategia.
+
+Herramientas utilizadas
+- SQL(PostgreSQL)
+- Jupiter Notebook
+- Python (Pandas para impresión de resultados)
+
+Consultas realizadas y hallazgos clave
+Se identificó un volumen creciente de publicaciones tras el año 2000, los títulos más frecuentes fueron los modernos.
+Algunos títulos podrían ser considerados "Joyas ocultas" ya que los altamente calificados no eran los más populares en número de reseñas.
+La identificación de la editorial líder en publicaciones extensas, es útil para recomendaciones dentro de la app o alianzas comerciales.
+Para destacar contenido de calidad, se realizó un ranking confiable de autores con buena recepción crítica.
+Los usuarios que escriben más reseñas de texto que el promedio podrían ser creadores de contenido.
+
+Conclusiones
+Se podrían desarrollar estrategias para personalizar el contenido de acuerdo a los metadatos editoriales, calificaciones y reseñas.
+Los libros con una calificación promedio alta no cuentan con tantas reseñas de usuarios, esto podría indicar que no son tan populares como los que tienen más reseñas.
+
